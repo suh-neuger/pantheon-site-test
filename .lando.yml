@@ -1,0 +1,6 @@
+name: neuger-workflow-test-2
+recipe: pantheon
+config:
+  framework: wordpress
+  site: neuger-workflow-test-2
+  id: db3ea6ad-fa9f-4b46-8c6a-ea59af87465c
